@@ -1,0 +1,65 @@
+
+/*font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+*/
+html{
+  font-size: 62.5%;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  padding: 2rem;
+  font-size: 1.8erm;
+  line-height: 1.5;
+}
+.container{
+ max-width: 1140px;
+margin: 0 auto;
+background-color: rgb(250, 250, 250);
+padding:0 1rem
+}
+
+
+h1 {
+  font-size: 5.61rem;
+}
+
+h2 {
+  font-size: 4.209rem;
+}
+
+h3 {
+  font-size: 3.157rem;
+}
+
+h4 {
+  font-size: 2.369rem;
+}
+
+h5 {
+  font-size: 1.777rem;
+}
+
+h6 {
+  font-size: 1.333rem;
+}
+p{
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: rgb(53, 51, 51);
+  
+}
+h1, h2, h3{
+  line-height: 1.1;
+  margin-bottom: .7rem;
+}
+ul, ol{
+  font-size: 1.8rem;
+  color: rgb(53, 51, 51);
+  
+}
+img{
+
+  width: 100%;
+  object-fit: cover;
+
+}
